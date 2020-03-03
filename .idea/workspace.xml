@@ -66,16 +66,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="Task: Added Math Operations." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="269" y="44" key="CommitChangelistDialog2" timestamp="1583262219959">
+    <state x="269" y="44" key="CommitChangelistDialog2" timestamp="1583262511993">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1583261981432" />
-    <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1583262219959" />
-    <state x="326" y="179" key="Vcs.Push.Dialog.v2" timestamp="1583262221390">
+    <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1583262511993" />
+    <state x="150" y="96" key="MergeDialog" timestamp="1583262542264">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="150" y="96" key="MergeDialog/0.23.1440.831@0.23.1440.831" timestamp="1583262542264" />
+    <state x="437" y="162" key="MultipleFileMergeDialog" timestamp="1583262544389">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="437" y="162" key="MultipleFileMergeDialog/0.23.1440.831@0.23.1440.831" timestamp="1583262544389" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2" timestamp="1583262518127">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1583261995899" />
-    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1583262221390" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1583262518127" />
     <state x="417" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1583261684829">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
