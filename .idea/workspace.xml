@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b7d63a-7381-4b2b-a664-053ee9215209" name="Default Changelist" comment="Task: Added Math Operations.">
+      <change afterPath="$PROJECT_DIR$/MathOperations/mean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Matthew Wisniewski" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yd9bjz22t7VVYfbqTajkd1G0lp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b7d63a-7381-4b2b-a664-053ee9215209" name="Default Changelist" comment="" />
+      <created>1583261677356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583261677356</updated>
+      <workItem from="1583261681887" duration="791000" />
+      <workItem from="1583263579919" duration="272000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task: Added Math Operations.">
+      <created>1583261981610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583261981610</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: Added Math Operations.">
+      <created>1583262220100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583262220100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task: Added Math Operations.">
+      <created>1583263676790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583263676790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task: Added Math Operations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Math Operations." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="59" key="CommitChangelistDialog2" timestamp="1583263834681">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1583261981432" />
+    <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1583262511993" />
+    <state x="309" y="59" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1583263834681" />
+    <state x="150" y="96" key="MergeDialog" timestamp="1583262542264">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="150" y="96" key="MergeDialog/0.23.1440.831@0.23.1440.831" timestamp="1583262542264" />
+    <state x="437" y="162" key="MultipleFileMergeDialog" timestamp="1583262544389">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="437" y="162" key="MultipleFileMergeDialog/0.23.1440.831@0.23.1440.831" timestamp="1583262544389" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2" timestamp="1583263802033">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1583261995899" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1583262518127" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1583263802033" />
+    <state x="417" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1583261684829">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="417" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1583261684829" />
+    <state x="394" y="238" key="git4idea.merge.GitPullDialog" timestamp="1583262115122">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="394" y="238" key="git4idea.merge.GitPullDialog/0.23.1440.830@0.23.1440.830" timestamp="1583262115122" />
+  </component>
+</project>
