@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b7d63a-7381-4b2b-a664-053ee9215209" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/StatsCalcMidterm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Matthew Wisniewski" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yd9bjz22t7VVYfbqTajkd1G0lp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b7d63a-7381-4b2b-a664-053ee9215209" name="Default Changelist" comment="" />
+      <created>1583261677356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583261677356</updated>
+      <workItem from="1583261681887" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task: Added Math Operations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Math Operations." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="44" key="CommitChangelistDialog2" timestamp="1583261916640">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="269" y="44" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1583261916640" />
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2" timestamp="1583261962827">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="326" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1583261962827" />
+    <state x="417" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1583261684829">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="417" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1583261684829" />
+  </component>
+</project>
